@@ -1,0 +1,5 @@
+str1 = input("请输入：")
+upper = str.upper(str1)
+low = str.lower(str1)
+print(upper)
+print(low)
